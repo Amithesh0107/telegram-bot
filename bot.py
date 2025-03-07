@@ -2,7 +2,7 @@ import requests
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = "8014258134:AAFRi5jhsgMGMXklkybX85XKvVZqBy-xE2o"
+TELEGRAM_BOT_TOKEN = ""
 
 MISTRAL_API_KEY = "dxRJjk2L1x6WPpQWfnWG16gg5lNso6rf"
 
